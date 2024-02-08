@@ -16,6 +16,10 @@
     * Add a **dropdown** menu to facilitate filtering of the members list by state.
     * Integrate a **search input field** to enable searching of the members list by keyword or query.
 
+#### TODO (Pending Tasks)
+
+* Pagination: This feature is yet to be implemented due to time constraints. The preferred approach for this feature would be server-side pagination. Alongside implementing pagination, considerations for sorting and filtering of data should also be taken into account.
+
 #### Running the application
 
 If you have the .NET SDK and Yarn installed locally, you can start the components in two different shells with:
